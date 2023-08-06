@@ -170,6 +170,9 @@ body {
 .project-icon{
     margin-right: 11px;
 }
+.project-image{
+    width: 240px;
+}
 .swiper-pagination{
     position: relative;
     margin-top: 30px;
